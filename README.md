@@ -5,18 +5,18 @@ The model is composed of three branches, and the following is the training curve
 
 Branch1：
 <div align="center">
-  <img src="https://github.com/zjy-0108/DeepMIQA/blob/main/pic/zj.png">
+  <img src="https://github.com/zjy-0108/DeepMIQA/blob/main/pic/1.png">
 </div>
 Branch2:
 <div align="center">
-  <img src="https://github.com/zjy-0108/DeepMIQA/blob/main/pic/yxzx.png">
+  <img src="https://github.com/zjy-0108/DeepMIQA/blob/main/pic/2.png">
 </div>
 Branch3:
 <div align="center">
-  <img src="https://github.com/zjy-0108/DeepMIQA/blob/main/pic/xw.png">
+  <img src="https://github.com/zjy-0108/DeepMIQA/blob/main/pic/3.png">
 </div>
 Final result:
 <div align="center">
-  <img src="https://github.com/zjy-0108/DeepMIQA/blob/main/pic/unit.png">
+  <img src="https://github.com/zjy-0108/DeepMIQA/blob/main/pic/4.png">
 </div>
 
