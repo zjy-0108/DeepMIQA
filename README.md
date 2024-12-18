@@ -15,7 +15,7 @@ Branch3:
 <div align="center">
   <img src="https://github.com/zjy-0108/DeepMIQA/blob/main/pic/3.png">
 </div>
-Final result:
+Finally, the training curve using the results of the three branches is as follows:
 <div align="center">
   <img src="https://github.com/zjy-0108/DeepMIQA/blob/main/pic/4.png">
 </div>
